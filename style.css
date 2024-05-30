@@ -1,0 +1,66 @@
+.navbar{
+    background-color:black; 
+    border-radius:4px;
+ }
+ .navbar ul{
+     overflow:auto;
+ }
+  .navbar li{
+     float:left;
+     list-style:none;
+     margin:20px 20px;
+ } 
+ .navbar li a{
+     padding:3px;
+     text-decoration:none;
+     color:white;
+ }
+ .search{
+     float:right;
+     color:white;
+     padding:10px 15px;
+  
+  }
+  .navbar input{
+     border:2px solid black;
+     border-radius:6px;
+     padding:10px 15px;
+     width:130px;
+  }
+ .navbar li a:hover{
+     color:red;
+
+  }
+.container{
+    
+     margin:0px;
+     padding:0px;  
+ }
+ 
+ h1{
+     text-align:center;
+ }
+
+ img{
+     height:200px;
+     width:400px;
+ }
+
+     
+.food{
+ display:flex;
+ padding:7px;
+ margin:2px;
+}
+h2{
+ text-align:center;
+}
+.place{
+ display:flex;
+ padding:5px;
+ margin:3px;
+}
+form{
+ text-align: center;
+}
+
